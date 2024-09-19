@@ -1,0 +1,8 @@
+1.Can you tell the difference between Git and GitHub?
+2.How will you create a git repository
+3.What is the use of git add and git status command
+4.What is a conflict.
+
+5.What are branches and how to create them.
+Ans.To create a new branch, you use the git branch <branch-name> command, and to view all the local branches, use the git branch command. The current branch is marked with an asterisk (*).
+
